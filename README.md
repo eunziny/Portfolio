@@ -8,14 +8,19 @@
 * Tool (IDE) : Eclipse
 
 ## Career
-* 2018.02 ~ 07 : 한국정보기술연구원(KITRI) 디지털 컨버전스 기반 응용S/W 엔지니어링 구직자 과정 이수
-* 2018.06 ~ 07 : Framework(Spring, Mybatis)을 이용한 소셜 네트워크 서비스 ‘Dailygram’ 개발
-* 2018.05 ~ 06 : MVC 패턴을 적용한 자전거 여행 & 푸드트럭 웹 사이트 ‘BYTRUCK’ 개발
-* 2018.03 ~ 04 : Java Swing을 이용한 Java Application ‘Yeah-Ha Kids Cafe’ POS-SYSTEM 개발
+* 2018.02 ~ 07  
+한국정보기술연구원(KITRI) 디지털 컨버전스 기반 응용S/W 엔지니어링 구직자 과정 이수
+* 2018.06 ~ 07  
+Framework(Spring, Mybatis)을 이용한 소셜 네트워크 서비스 ‘Dailygram’ 개발
+* 2018.05 ~ 06  
+MVC 패턴을 적용한 자전거 여행 & 푸드트럭 웹 사이트 ‘BYTRUCK’ 개발
+* 2018.03 ~ 04  
+Java Swing을 이용한 Java Application ‘Yeah-Ha Kids Cafe’ POS-SYSTEM 개발
 
 ## Project
 [**1. 소셜 네트워크 서비스 'Dailygram'**](https://github.com/eunziny/Dailygram)
-[Dailygram 시연영상 바로가기](https://youtu.be/RN8ff6jmp7U)
+
+[(Dailygram 시연영상 바로가기)](https://youtu.be/RN8ff6jmp7U)
 
 **설명**
 * Spring, Mybatis Framework를 적용한 소셜 네트워크 서비스
