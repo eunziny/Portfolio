@@ -18,9 +18,8 @@ MVC 패턴을 적용한 자전거 여행 & 푸드트럭 웹 사이트 ‘BYTRUCK’ 개발
 Java Swing을 이용한 Java Application ‘Yeah-Ha Kids Cafe’ POS-SYSTEM 개발
 
 ## Project
-[**1. 소셜 네트워크 서비스 'Dailygram'**](https://github.com/eunziny/Dailygram)
-
-[(Dailygram 시연영상 바로가기)](https://youtu.be/RN8ff6jmp7U)
+[**1. 소셜 네트워크 서비스 'Dailygram'**](https://github.com/eunziny/Dailygram)  
+[**☞Dailygram 시연영상 바로가기**](https://youtu.be/RN8ff6jmp7U)
 
 **설명**
 * Spring, Mybatis Framework를 적용한 소셜 네트워크 서비스
