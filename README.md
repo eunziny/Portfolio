@@ -61,7 +61,7 @@
 * JAI를 활용한 이미지 파일 업로드
 * 사진 게시판 카테고리별 리스트 및 게시물 등록
 ***
-**3. POS-SYSTEM 'Yeah-Ha Kids Cafe'**
+[**3. POS-SYSTEM 'Yeah-Ha Kids Cafe'**](https://github.com/eunziny/YeahHaKidsCafe)
 
 **설명**
 * Java Swing을 활용한 키즈카페 POS-SYSTEM
