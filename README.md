@@ -15,6 +15,7 @@
 
 ## Project
 [**1. 소셜 네트워크 서비스 'Dailygram'**](https://github.com/eunziny/Dailygram)
+[Dailygram 시연영상 바로가기](https://youtu.be/RN8ff6jmp7U)
 
 **설명**
 * Spring, Mybatis Framework를 적용한 소셜 네트워크 서비스
